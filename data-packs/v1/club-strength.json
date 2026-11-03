@@ -1,0 +1,766 @@
+{
+  "packVersion": "v1@2026-11-02",
+  "season": "2024-25",
+  "entries": [
+    {
+      "clubId": "wd:Q483020",
+      "modifier": 4,
+      "points": 84,
+      "goalDifference": 57,
+      "rank": 1,
+      "teams": 18
+    },
+    {
+      "clubId": "wd:Q132885",
+      "modifier": 4,
+      "points": 65,
+      "goalDifference": 27,
+      "rank": 2,
+      "teams": 18
+    },
+    {
+      "clubId": "wd:Q180305",
+      "modifier": 3,
+      "points": 61,
+      "goalDifference": 22,
+      "rank": 3,
+      "teams": 18
+    },
+    {
+      "clubId": "wd:Q185163",
+      "modifier": 3,
+      "points": 60,
+      "goalDifference": 25,
+      "rank": 4,
+      "teams": 18
+    },
+    {
+      "clubId": "wd:Q19516",
+      "modifier": 2,
+      "points": 60,
+      "goalDifference": 16,
+      "rank": 5,
+      "teams": 18
+    },
+    {
+      "clubId": "wd:Q704",
+      "modifier": 2,
+      "points": 57,
+      "goalDifference": 19,
+      "rank": 6,
+      "teams": 18
+    },
+    {
+      "clubId": "wd:Q126334",
+      "modifier": 1,
+      "points": 57,
+      "goalDifference": 12,
+      "rank": 7,
+      "teams": 18
+    },
+    {
+      "clubId": "wd:Q191843",
+      "modifier": 1,
+      "points": 52,
+      "goalDifference": 3,
+      "rank": 8,
+      "teams": 18
+    },
+    {
+      "clubId": "wd:Q218372",
+      "modifier": 0,
+      "points": 50,
+      "goalDifference": -7,
+      "rank": 9,
+      "teams": 18
+    },
+    {
+      "clubId": "wd:Q2422417",
+      "modifier": 0,
+      "points": 42,
+      "goalDifference": 1,
+      "rank": 10,
+      "teams": 18
+    },
+    {
+      "clubId": "wd:Q182876",
+      "modifier": -1,
+      "points": 42,
+      "goalDifference": -3,
+      "rank": 11,
+      "teams": 18
+    },
+    {
+      "clubId": "wd:Q19509",
+      "modifier": -1,
+      "points": 41,
+      "goalDifference": 1,
+      "rank": 12,
+      "teams": 18
+    },
+    {
+      "clubId": "wd:Q192071",
+      "modifier": -2,
+      "points": 36,
+      "goalDifference": -13,
+      "rank": 13,
+      "teams": 18
+    },
+    {
+      "clubId": "wd:Q845137",
+      "modifier": -2,
+      "points": 36,
+      "goalDifference": -21,
+      "rank": 14,
+      "teams": 18
+    },
+    {
+      "clubId": "wd:Q328658",
+      "modifier": -3,
+      "points": 34,
+      "goalDifference": -31,
+      "rank": 15,
+      "teams": 18
+    },
+    {
+      "clubId": "wd:Q208228",
+      "modifier": -3,
+      "points": 33,
+      "goalDifference": -14,
+      "rank": 16,
+      "teams": 18
+    },
+    {
+      "clubId": "wd:Q19521",
+      "modifier": -4,
+      "points": 30,
+      "goalDifference": -38,
+      "rank": 17,
+      "teams": 18
+    },
+    {
+      "clubId": "wd:Q19513",
+      "modifier": -4,
+      "points": 16,
+      "goalDifference": -56,
+      "rank": 18,
+      "teams": 18
+    },
+    {
+      "clubId": "wd:Q2641",
+      "modifier": 4,
+      "points": 79,
+      "goalDifference": 30,
+      "rank": 1,
+      "teams": 20
+    },
+    {
+      "clubId": "wd:Q631",
+      "modifier": 4,
+      "points": 78,
+      "goalDifference": 42,
+      "rank": 2,
+      "teams": 20
+    },
+    {
+      "clubId": "wd:Q1886",
+      "modifier": 3,
+      "points": 74,
+      "goalDifference": 42,
+      "rank": 3,
+      "teams": 20
+    },
+    {
+      "clubId": "wd:Q1422",
+      "modifier": 3,
+      "points": 67,
+      "goalDifference": 22,
+      "rank": 4,
+      "teams": 20
+    },
+    {
+      "clubId": "wd:Q2739",
+      "modifier": 2,
+      "points": 66,
+      "goalDifference": 19,
+      "rank": 5,
+      "teams": 20
+    },
+    {
+      "clubId": "wd:Q2609",
+      "modifier": 2,
+      "points": 65,
+      "goalDifference": 13,
+      "rank": 6,
+      "teams": 20
+    },
+    {
+      "clubId": "wd:Q2052",
+      "modifier": 1,
+      "points": 62,
+      "goalDifference": 18,
+      "rank": 7,
+      "teams": 20
+    },
+    {
+      "clubId": "wd:Q1893",
+      "modifier": 1,
+      "points": 62,
+      "goalDifference": 12,
+      "rank": 8,
+      "teams": 20
+    },
+    {
+      "clubId": "wd:Q1543",
+      "modifier": 1,
+      "points": 60,
+      "goalDifference": 16,
+      "rank": 9,
+      "teams": 20
+    },
+    {
+      "clubId": "wd:Q1120838",
+      "modifier": 0,
+      "points": 49,
+      "goalDifference": -1,
+      "rank": 10,
+      "teams": 20
+    },
+    {
+      "clubId": "wd:Q2768",
+      "modifier": 0,
+      "points": 44,
+      "goalDifference": -4,
+      "rank": 11,
+      "teams": 20
+    },
+    {
+      "clubId": "wd:Q2798",
+      "modifier": -1,
+      "points": 44,
+      "goalDifference": -14,
+      "rank": 12,
+      "teams": 20
+    },
+    {
+      "clubId": "wd:Q2074",
+      "modifier": -1,
+      "points": 40,
+      "goalDifference": -14,
+      "rank": 13,
+      "teams": 20
+    },
+    {
+      "clubId": "wd:Q1900",
+      "modifier": -1,
+      "points": 36,
+      "goalDifference": -14,
+      "rank": 14,
+      "teams": 20
+    },
+    {
+      "clubId": "wd:Q8639",
+      "modifier": -2,
+      "points": 34,
+      "goalDifference": -33,
+      "rank": 15,
+      "teams": 20
+    },
+    {
+      "clubId": "wd:Q2693",
+      "modifier": -2,
+      "points": 33,
+      "goalDifference": -15,
+      "rank": 16,
+      "teams": 20
+    },
+    {
+      "clubId": "wd:Q6703",
+      "modifier": -3,
+      "points": 31,
+      "goalDifference": -25,
+      "rank": 17,
+      "teams": 20
+    },
+    {
+      "clubId": "wd:Q13391",
+      "modifier": -3,
+      "points": 31,
+      "goalDifference": -32,
+      "rank": 18,
+      "teams": 20
+    },
+    {
+      "clubId": "wd:Q501245",
+      "modifier": -4,
+      "points": 29,
+      "goalDifference": -23,
+      "rank": 19,
+      "teams": 20
+    },
+    {
+      "clubId": "wd:Q289482",
+      "modifier": -4,
+      "points": 18,
+      "goalDifference": -39,
+      "rank": 20,
+      "teams": 20
+    },
+    {
+      "clubId": "wd:Q8682",
+      "modifier": 4,
+      "points": 154,
+      "goalDifference": 72,
+      "rank": 1,
+      "teams": 19
+    },
+    {
+      "clubId": "wd:Q7156",
+      "modifier": 4,
+      "points": 85,
+      "goalDifference": 60,
+      "rank": 2,
+      "teams": 19
+    },
+    {
+      "clubId": "wd:Q8687",
+      "modifier": 3,
+      "points": 70,
+      "goalDifference": 28,
+      "rank": 3,
+      "teams": 19
+    },
+    {
+      "clubId": "wd:Q12297",
+      "modifier": 3,
+      "points": 67,
+      "goalDifference": 18,
+      "rank": 4,
+      "teams": 19
+    },
+    {
+      "clubId": "wd:Q8723",
+      "modifier": 2,
+      "points": 59,
+      "goalDifference": 7,
+      "rank": 5,
+      "teams": 19
+    },
+    {
+      "clubId": "wd:Q8749",
+      "modifier": 2,
+      "points": 52,
+      "goalDifference": 1,
+      "rank": 6,
+      "teams": 19
+    },
+    {
+      "clubId": "wd:Q10286",
+      "modifier": 1,
+      "points": 51,
+      "goalDifference": -4,
+      "rank": 7,
+      "teams": 19
+    },
+    {
+      "clubId": "wd:Q10300",
+      "modifier": 1,
+      "points": 51,
+      "goalDifference": -4,
+      "rank": 8,
+      "teams": 19
+    },
+    {
+      "clubId": "wd:Q8835",
+      "modifier": 0,
+      "points": 47,
+      "goalDifference": -9,
+      "rank": 9,
+      "teams": 19
+    },
+    {
+      "clubId": "wd:Q10315",
+      "modifier": 0,
+      "points": 46,
+      "goalDifference": -9,
+      "rank": 10,
+      "teams": 19
+    },
+    {
+      "clubId": "wd:Q10333",
+      "modifier": 0,
+      "points": 45,
+      "goalDifference": -10,
+      "rank": 11,
+      "teams": 19
+    },
+    {
+      "clubId": "wd:Q8806",
+      "modifier": -1,
+      "points": 42,
+      "goalDifference": -4,
+      "rank": 12,
+      "teams": 19
+    },
+    {
+      "clubId": "wd:Q223620",
+      "modifier": -1,
+      "points": 41,
+      "goalDifference": -10,
+      "rank": 13,
+      "teams": 19
+    },
+    {
+      "clubId": "wd:Q10329",
+      "modifier": -2,
+      "points": 41,
+      "goalDifference": -11,
+      "rank": 14,
+      "teams": 19
+    },
+    {
+      "clubId": "wd:Q11945",
+      "modifier": -2,
+      "points": 41,
+      "goalDifference": -12,
+      "rank": 15,
+      "teams": 19
+    },
+    {
+      "clubId": "wd:Q8780",
+      "modifier": -3,
+      "points": 39,
+      "goalDifference": -13,
+      "rank": 16,
+      "teams": 19
+    },
+    {
+      "clubId": "wd:Q856119",
+      "modifier": -3,
+      "points": 37,
+      "goalDifference": -20,
+      "rank": 17,
+      "teams": 19
+    },
+    {
+      "clubId": "wd:Q11979",
+      "modifier": -4,
+      "points": 32,
+      "goalDifference": -19,
+      "rank": 18,
+      "teams": 19
+    },
+    {
+      "clubId": "wd:Q10319",
+      "modifier": -4,
+      "points": 16,
+      "goalDifference": -61,
+      "rank": 19,
+      "teams": 19
+    },
+    {
+      "clubId": "wd:Q15789",
+      "modifier": 4,
+      "points": 82,
+      "goalDifference": 67,
+      "rank": 1,
+      "teams": 18
+    },
+    {
+      "clubId": "wd:Q104761",
+      "modifier": 4,
+      "points": 69,
+      "goalDifference": 29,
+      "rank": 2,
+      "teams": 18
+    },
+    {
+      "clubId": "wd:Q38245",
+      "modifier": 3,
+      "points": 60,
+      "goalDifference": 22,
+      "rank": 3,
+      "teams": 18
+    },
+    {
+      "clubId": "wd:Q41420",
+      "modifier": 3,
+      "points": 57,
+      "goalDifference": 20,
+      "rank": 4,
+      "teams": 18
+    },
+    {
+      "clubId": "wd:Q106394",
+      "modifier": 2,
+      "points": 55,
+      "goalDifference": -4,
+      "rank": 5,
+      "teams": 18
+    },
+    {
+      "clubId": "wd:Q105254",
+      "modifier": 2,
+      "points": 52,
+      "goalDifference": 12,
+      "rank": 6,
+      "teams": 18
+    },
+    {
+      "clubId": "wd:Q702455",
+      "modifier": 1,
+      "points": 51,
+      "goalDifference": 5,
+      "rank": 7,
+      "teams": 18
+    },
+    {
+      "clubId": "wd:Q51976",
+      "modifier": 1,
+      "points": 51,
+      "goalDifference": -3,
+      "rank": 8,
+      "teams": 18
+    },
+    {
+      "clubId": "wd:Q4512",
+      "modifier": 0,
+      "points": 50,
+      "goalDifference": 11,
+      "rank": 9,
+      "teams": 18
+    },
+    {
+      "clubId": "wd:Q101959",
+      "modifier": 0,
+      "points": 45,
+      "goalDifference": -2,
+      "rank": 10,
+      "teams": 18
+    },
+    {
+      "clubId": "wd:Q101859",
+      "modifier": -1,
+      "points": 43,
+      "goalDifference": 2,
+      "rank": 11,
+      "teams": 18
+    },
+    {
+      "clubId": "wd:Q97905916",
+      "modifier": -1,
+      "points": 43,
+      "goalDifference": -16,
+      "rank": 12,
+      "teams": 18
+    },
+    {
+      "clubId": "wd:Q141971",
+      "modifier": -2,
+      "points": 40,
+      "goalDifference": -16,
+      "rank": 13,
+      "teams": 18
+    },
+    {
+      "clubId": "wd:Q6463",
+      "modifier": -2,
+      "points": 32,
+      "goalDifference": -13,
+      "rank": 14,
+      "teams": 18
+    },
+    {
+      "clubId": "wd:Q22707",
+      "modifier": -3,
+      "points": 32,
+      "goalDifference": -22,
+      "rank": 15,
+      "teams": 18
+    },
+    {
+      "clubId": "wd:Q162251",
+      "modifier": -3,
+      "points": 29,
+      "goalDifference": -27,
+      "rank": 16,
+      "teams": 18
+    },
+    {
+      "clubId": "wd:Q157828",
+      "modifier": -4,
+      "points": 25,
+      "goalDifference": -31,
+      "rank": 17,
+      "teams": 18
+    },
+    {
+      "clubId": "wd:Q105861",
+      "modifier": -4,
+      "points": 25,
+      "goalDifference": -34,
+      "rank": 18,
+      "teams": 18
+    },
+    {
+      "clubId": "wd:Q1130849",
+      "modifier": 4,
+      "points": 84,
+      "goalDifference": 45,
+      "rank": 1,
+      "teams": 20
+    },
+    {
+      "clubId": "wd:Q9617",
+      "modifier": 4,
+      "points": 74,
+      "goalDifference": 35,
+      "rank": 2,
+      "teams": 20
+    },
+    {
+      "clubId": "wd:Q50602",
+      "modifier": 3,
+      "points": 71,
+      "goalDifference": 28,
+      "rank": 3,
+      "teams": 20
+    },
+    {
+      "clubId": "wd:Q9616",
+      "modifier": 3,
+      "points": 69,
+      "goalDifference": 21,
+      "rank": 4,
+      "teams": 20
+    },
+    {
+      "clubId": "wd:Q18716",
+      "modifier": 2,
+      "points": 66,
+      "goalDifference": 21,
+      "rank": 5,
+      "teams": 20
+    },
+    {
+      "clubId": "wd:Q18711",
+      "modifier": 2,
+      "points": 66,
+      "goalDifference": 7,
+      "rank": 6,
+      "teams": 20
+    },
+    {
+      "clubId": "wd:Q19490",
+      "modifier": 1,
+      "points": 65,
+      "goalDifference": 12,
+      "rank": 7,
+      "teams": 20
+    },
+    {
+      "clubId": "wd:Q19453",
+      "modifier": 1,
+      "points": 61,
+      "goalDifference": 7,
+      "rank": 8,
+      "teams": 20
+    },
+    {
+      "clubId": "wd:Q19568",
+      "modifier": 1,
+      "points": 56,
+      "goalDifference": 12,
+      "rank": 9,
+      "teams": 20
+    },
+    {
+      "clubId": "wd:Q19571",
+      "modifier": 0,
+      "points": 56,
+      "goalDifference": 9,
+      "rank": 10,
+      "teams": 20
+    },
+    {
+      "clubId": "wd:Q18708",
+      "modifier": 0,
+      "points": 54,
+      "goalDifference": 0,
+      "rank": 11,
+      "teams": 20
+    },
+    {
+      "clubId": "wd:Q19467",
+      "modifier": -1,
+      "points": 53,
+      "goalDifference": 0,
+      "rank": 12,
+      "teams": 20
+    },
+    {
+      "clubId": "wd:Q5794",
+      "modifier": -1,
+      "points": 48,
+      "goalDifference": -2,
+      "rank": 13,
+      "teams": 20
+    },
+    {
+      "clubId": "wd:Q18747",
+      "modifier": -1,
+      "points": 43,
+      "goalDifference": -16,
+      "rank": 14,
+      "teams": 20
+    },
+    {
+      "clubId": "wd:Q18656",
+      "modifier": -2,
+      "points": 42,
+      "goalDifference": -10,
+      "rank": 15,
+      "teams": 20
+    },
+    {
+      "clubId": "wd:Q19500",
+      "modifier": -2,
+      "points": 42,
+      "goalDifference": -15,
+      "rank": 16,
+      "teams": 20
+    },
+    {
+      "clubId": "wd:Q18741",
+      "modifier": -3,
+      "points": 38,
+      "goalDifference": -1,
+      "rank": 17,
+      "teams": 20
+    },
+    {
+      "clubId": "wd:Q19481",
+      "modifier": -3,
+      "points": 25,
+      "goalDifference": -47,
+      "rank": 18,
+      "teams": 20
+    },
+    {
+      "clubId": "wd:Q9653",
+      "modifier": -4,
+      "points": 22,
+      "goalDifference": -46,
+      "rank": 19,
+      "teams": 20
+    },
+    {
+      "clubId": "wd:Q18732",
+      "modifier": -4,
+      "points": 12,
+      "goalDifference": -60,
+      "rank": 20,
+      "teams": 20
+    }
+  ]
+}
